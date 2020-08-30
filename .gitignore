@@ -1,0 +1,35 @@
+# dependencies
+**/node_modules
+
+# IDE
+/.idea
+*.iml
+*.code-workspace
+
+# production
+**/dist
+
+
+# css
+*.css
+
+# misc
+.DS_Store
+*.log
+.cache
+**/coverage
+**/temp
+jest-cache
+.scannerwork
+reports/
+.history/
+
+test-report.xm
+*.iml
+.idea
+target
+.DS_Store
+dependency-reduced-pom.xml
+.settings
+.project
+.classpath
